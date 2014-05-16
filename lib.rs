@@ -14,6 +14,7 @@
 
 extern crate libc;
 extern crate std;
+extern crate core;
 
 pub mod gl2;
 
